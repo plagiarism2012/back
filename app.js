@@ -48,4 +48,4 @@ app.get('/', (req, res) => {
   res.send('we are on home');
 })
 
-app.listen("https://ath-mnab.onrender.com" | 5500);
+app.listen(5500);
